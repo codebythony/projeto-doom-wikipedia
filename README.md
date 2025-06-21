@@ -18,7 +18,7 @@ A página desenvolvida apresenta:
 
 ## 📁 Estrutura do Projeto
 
-📂 _doom-wikipedia-semantic_  
+📂 projeto-doom-wikipedia  
 ├── README.md  
 ├── index.html  
 ├── assets/  
@@ -33,10 +33,13 @@ A página desenvolvida apresenta:
 
 1. Faça o download ou clone este repositório:  
 ```bash
-git clone https://github.com/codebythony/projeto-html-semantico-doom
+git clone https://github.com/codebythony/projeto-doom-wikipedia.git
 ```
 
-2. Abra o arquivo `index.html` no seu navegador de preferência.
+2. Ou acesse diretamente:  
+🔗 https://github.com/codebythony/projeto-doom-wikipedia/tree/main
+
+3. Abra o arquivo `index.html` no seu navegador de preferência.
 
 ---
 
